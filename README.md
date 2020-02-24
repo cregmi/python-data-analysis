@@ -2,7 +2,7 @@
 - Read the numerical housing dataset with 14 columns and 506 rows from file, 'housing-data.txt'
 - Visualize the correlation between output value and other attributes.
 - Define, train and test a machine learning model to predict the output when inputs are provided.
-#### The dataset have first 13 columns as input attributes and the 14th column as output value.
+#### The dataset has first 13 columns as input attributes and the 14th column as output value.
 ##### Information of the dataset
 - Column 0, CRIM, per capita crime rate by town
 - Column 1, ZN, proportion of residential land zoned for lots over 25,000 sq.ft.
